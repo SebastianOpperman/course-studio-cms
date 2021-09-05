@@ -1,0 +1,56 @@
+/*
+Theme Name: Course Studio
+Theme URI: https://github.com/SebastianOpperman
+Author: Sebastian Opperman
+Auther URI: https://github.com/SebastianOpperman
+Version: 1.0.0
+Description: This is an API layer based on WordPress for the Course Studio assignment task. The app is built with NEXT.js and consumes data from this instance.
+*/
+
+:root {
+	--coal: #1D201F;
+	--stone: #1D201F;
+	--goblin: #449764;
+	--lace: #FEFBF2;
+}
+
+* {
+	box-sizing: border-box;
+	outline: none;
+	margin: 0;
+	padding: 0;
+}
+
+html {
+  font-size: 100%;
+	scroll-behavior: auto;
+	-webkit-scroll-behavior: smooth;
+}
+
+body {
+	text-rendering: optimizeLegibility;
+	-webkit-font-smoothing: antialiased;
+	font-size: 16px;
+	line-height: 1;
+	scroll-behavior: smooth;
+	backface-visibility: hidden;
+	font-weight: 500;
+	color: white;
+  background: var(--coal);
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+	max-width: 100%;
+	display: block;
+}
+
+ul {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	color: currentColor;
+}
