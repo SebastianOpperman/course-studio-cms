@@ -3,7 +3,7 @@
 [LOGIN TO WORDPRESS](https://course-studio-3849f9.ingress-daribow.easywp.com/admin)
 
 ## Overview
-This is an API layer using WordPress. It is built for the React assesment task which can be found [here](https://github.com/SebastianOpperman/course-studio-app). It features a clean trimmed WordPress back-end that exposes the data via a custom endpoint. 
+This is an API layer using WordPress. It is built for the React assessment task which can be found [here](https://github.com/SebastianOpperman/course-studio-app). It features a clean trimmed WordPress back-end that exposes the data via a custom endpoint. 
 
 I've used zero plugins or extensions and only standard WordPress functionality out of the box.
 
