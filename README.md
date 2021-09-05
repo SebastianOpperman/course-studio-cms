@@ -1,3 +1,5 @@
+![WordPress Plugin: Required WP Version](https://img.shields.io/wordpress/plugin/wp-version/bbpress)
+![WordPress Plugin Required PHP Version](https://img.shields.io/wordpress/plugin/required-php/bbpress)
 # WordPress API layer for React Assesment Task
 
 [LOGIN TO WORDPRESS](https://course-studio-3849f9.ingress-daribow.easywp.com/admin)
